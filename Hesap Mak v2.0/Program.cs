@@ -170,7 +170,7 @@ namespace Hesap_Mak_v2._0
                 }
 
             }
-            Console.WriteLine("İyi Günler.");
+            Console.WriteLine("İyi Günler..");
             Console.ReadKey();
         }
     }
